@@ -25,3 +25,8 @@ cloud and GitHub resources using Terraform.
 │   ├── vpc.tf
 │   └── ec2.tf
 └── README.md
+
+```sh
+sudo apt clean
+sudo apt update && sudo apt upgrade -y
+```
